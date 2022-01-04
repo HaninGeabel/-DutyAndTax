@@ -1,0 +1,87 @@
+Traveller's name (last, first, initials): Cruz, Larry, T.
+Length of absence (# of days): 3
+Total amount of imported goods ($ CAD): 725
+Import Exemption Report for Larry T. Cruz
+---------------------------------------------------------------
+
+Absence Period (days)                        3.0
+...Maximum Personal Exemption            $800.00 
+...Include Limited Alcohol & Tobacco?        Yes
+
+Usable Personal Exemption                              $725.00
+Amount Subject to Special Duty & Taxes                   $0.00
+Amount Subject to Special Duty & Taxes                   $0.00
+                             ---------
+Total Amount of Imported Goods                         $725.00
+--------------------------------------------------------------
+
+Traveller's name (last, first, initials):  Cruz, Fiona, J.
+Length of absence (# of days): 3
+Total amount of imported goods ($ CAD): 1222
+Import Exemption Report for Fiona J.  Cruz
+---------------------------------------------------------------
+
+Absence Period (days)                        3.0
+...Maximum Personal Exemption            $800.00 
+...Include Limited Alcohol & Tobacco?         Yes
+
+Usable Personal Exemption                              $800.00
+Amount Subject to Special Duty & Taxes                 $300.00
+Amount Subject to Special Duty & Taxes                 $122.00
+                             ----------
+Total Amount of Imported Goods                        $1222.00
+----------------------------------------------------------------
+
+Traveller's name (last, first, initials):  Preston, Lily, M.
+Length of absence (# of days): .8
+Total amount of imported goods ($ CAD): 95
+Import Exemption Report for Lily M.  Preston
+---------------------------------------------------------------
+
+Absence Period (days)                        0.8
+...Maximum Personal Exemption               $0.00 
+...Include Limited Alcohol & Tobacco?          No
+
+Usable Personal Exemption                              $0.00
+Amount Subject to Special Duty & Taxes                 $0.00
+Amount Subject to Special Duty & Taxes                $95.00
+                           -----------
+Total Amount of Imported Goods                        $95.00
+---------------------------------------------------------------
+
+Traveller's name (last, first, initials):  Timms, Timothy, T.
+Length of absence (# of days): 1.5
+Total amount of imported goods ($ CAD): 210
+Import Exemption Report for Timothy T.  Timms
+---------------------------------------------------------------
+
+...Include Limited Alcohol & Tobacco?No
+Absence Period (days)                        1.5
+...Maximum Personal Exemption             $200.00 
+...Include Limited Alcohol & Tobacco?          No
+
+Usable Personal Exemption                              $0.00
+Amount Subject to Special Duty & Taxes                 $0.00
+Amount Subject to Special Duty & Taxes               $210.00
+                           ----------
+Total Amount of Imported Goods                       $210.00
+-------------------------------------------------------------
+
+Traveller's name (last, first, initials):  Timms, Tina, T.
+Length of absence (# of days): 1.5
+Total amount of imported goods ($ CAD): 200
+Import Exemption Report for Tina T.  Timms
+---------------------------------------------------------------
+
+...Include Limited Alcohol & Tobacco?No
+Absence Period (days)                        1.5
+...Maximum Personal Exemption            $200.00 
+...Include Limited Alcohol & Tobacco?         No
+
+Usable Personal Exemption                              $200.00
+Amount Subject to Special Duty & Taxes                   $0.00
+Amount Subject to Special Duty & Taxes                   $0.00
+                             ---------
+Total Amount of Imported Goods                         $200.00
+---------------------------------------------------------------
+
